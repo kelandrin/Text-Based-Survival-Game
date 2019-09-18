@@ -1,0 +1,4 @@
+Lesser_demon 75 60 85 175 10
+Giant 40 70 100 200 9
+Scorpion 60 100 55 100 14
+Hydra 55 75 85 200 12
